@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "564595d4-fb8c-4563-a559-d4f734509b59",
+		"name": "Collection_test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32024834",
+		"_collection_link": "https://blue-rocket-90701.postman.co/workspace/a6d45567-f20f-4a1e-86b5-25515160e294/collection/32024834-564595d4-fb8c-4563-a559-d4f734509b59?action=share&source=collection_link&creator=32024834"
+	},
+	"item": [
+		{
+			"name": "Users-Post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Nombre\":\"alejandro\",\r\n  \"Apellido\":\"arratia\",\r\n  \"Correo\":\"alejandro@ale\",\r\n  \"Teléfono\":\"1234567\",\r\n  \"Contraseña\":\"123456\",\r\n  \"Fecha de actualización\":\"02/03/04\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5024/Users",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5024",
+					"path": [
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Users-Get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5024/Users",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5024",
+					"path": [
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Encrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"text\": \"Hola como estas\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5024/Encrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5024",
+					"path": [
+						"Encrypt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Decrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"encrypted\": \"k4IXtFdTJwR343ZRYwFgg/OT7z2jSVE24C34GZIncQQ=\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5024/Decrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5024",
+					"path": [
+						"Decrypt"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

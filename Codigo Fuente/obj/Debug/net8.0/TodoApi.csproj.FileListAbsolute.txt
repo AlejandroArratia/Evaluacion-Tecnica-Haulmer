@@ -1,0 +1,96 @@
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\appsettings.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\TodoApi.exe
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\TodoApi.deps.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\TodoApi.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\TodoApi.pdb
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.pdb
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+D:\Ale\Documents\Dev\WebApplication1\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CopyComplete
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\appsettings.Development.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\appsettings.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.exe
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.deps.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.pdb
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.CopyComplete
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\refint\TodoApi.dll
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.pdb
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+D:\Ale\Documents\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\ref\TodoApi.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\appsettings.Development.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\appsettings.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.exe
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.deps.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\TodoApi.pdb
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.csproj.CopyComplete
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\refint\TodoApi.dll
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.pdb
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+D:\Ale\Descargas\Evaluacion-Tecnica-test\Codigo Fuente\obj\Debug\net8.0\ref\TodoApi.dll
